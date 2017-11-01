@@ -1,1 +1,4 @@
 GitHubは100MB以上のデータをサーバーに上げることはできないので注意すること
+
+もし上げたかったら、以下を参考に
+https://qiita.com/kanaya/items/ad52f25da32cb5aa19e6
