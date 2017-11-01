@@ -15,3 +15,5 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+ZX filter=lfs diff=lfs merge=lfs -text
+ZX600R_FSAE.ipt filter=lfs diff=lfs merge=lfs -text
