@@ -1,0 +1,25 @@
+**ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz**************************
+**PARASOLID !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~0123456789**************************
+**PART1;
+MC=unknown;
+MC_MODEL=unknown;
+MC_ID=unknown;
+OS=unknown;
+OS_RELEASE=unknown;
+FRU=Software Cradle Co.,Ltd.;
+APPL=NPR;
+SITE=unknown;
+USER=unknown;
+FORMAT=text;
+GUISE=transmit;
+GUISE=transmit;
+DATE=unknown;
+**PART2;
+SCH=SCH_2600139_25001;
+USFLD_SIZE=0;
+**PART3;
+**END_OF_HEADER*****************************************************************
+T51 : TRANSMIT FILE created by modeller version 260013923 SCH_2600139_25001_1300
+6189 0 10 255 1 1 0 0 0 2 0 0 0 1e3 1e-8 0 3 0 1 0 1 0 52 255 2 1 0 1 0 0 0 +1.6
+5 .5685 -.255 0 -1 378956125739e-25 .001 .0137073546043079 .999906049801556 -.92
+3735555857169 145151882400248e-28 .38303083798207 1 0 

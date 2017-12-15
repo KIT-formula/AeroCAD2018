@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<xml>
+<body name="2015Wheel watanabe" index="66189" title="部品名:2015Wheel watanabe" transf="1,-3.30365e-016,-4.03284e-016,0.505229,4.79301e-016,0.886902,0.461957,0.26608,2.05059e-016,-0.461957,0.886902,-0.921322,0,0,0,1">
+ <shell index="29446" title="シェル #29446:作成成功(正常終了)" result="1">
+   <face index="28827" title="面 #28827:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="0.11" value1="-0.0798902" value2="-0.0798902" value3="0.111732" value4="0.0798902" value5="0.0798902"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="2.91465" value1="3.36854"></curve>
+    <curve index="2" value0="3.36854" value1="3.70005"></curve>
+    <curve index="3" value0="3.70005" value1="4.15393"></curve>
+    <curve index="4" value0="4.15393" value1="4.48545"></curve>
+    <curve index="5" value0="4.48545" value1="4.93933"></curve>
+    <curve index="6" value0="4.93933" value1="5.27084"></curve>
+    <curve index="7" value0="5.27084" value1="5.72473"></curve>
+    <curve index="8" value0="5.72473" value1="6.05624"></curve>
+    <curve index="9" value0="6.05624" value1="6.51013"></curve>
+    <curve index="10" value0="0.226943" value1="0.558455"></curve>
+    <curve index="11" value0="0.558455" value1="1.01234"></curve>
+    <curve index="12" value0="1.01234" value1="1.34385"></curve>
+    <curve index="13" value0="1.34385" value1="1.79774"></curve>
+    <curve index="14" value0="1.79774" value1="2.12925"></curve>
+    <curve index="15" value0="2.12925" value1="2.58314"></curve>
+    <curve index="16" value0="2.58314" value1="2.91465"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28827.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28827.surf"></surfacegeometry>
+   </face>
+   <face index="28889" title="面 #28889:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="0.095" value1="-0.158" value2="-0.158" value3="0.11" value4="0.158" value5="0.158"></boundingbox>
+    <curve index="0" value0="4.09562" value1="4.54376"></curve>
+    <curve index="1" value0="4.54376" value1="4.88102"></curve>
+    <curve index="2" value0="4.88102" value1="5.32916"></curve>
+    <curve index="3" value0="5.32916" value1="5.66642"></curve>
+    <curve index="4" value0="5.66642" value1="6.11456"></curve>
+    <curve index="5" value0="6.11456" value1="6.45182"></curve>
+    <curve index="6" value0="0.16863" value1="0.616768"></curve>
+    <curve index="7" value0="0.616768" value1="0.954028"></curve>
+    <curve index="8" value0="0.954028" value1="1.40217"></curve>
+    <curve index="9" value0="1.40217" value1="1.73943"></curve>
+    <curve index="10" value0="1.73943" value1="2.18756"></curve>
+    <curve index="11" value0="2.18756" value1="2.52482"></curve>
+    <curve index="12" value0="2.52482" value1="2.97296"></curve>
+    <curve index="13" value0="2.97296" value1="3.31022"></curve>
+    <curve index="14" value0="3.31022" value1="3.75836"></curve>
+    <curve index="15" value0="3.75836" value1="4.09562"></curve>
+    <curve index="16" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28889.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28889.surf"></surfacegeometry>
+   </face>
+   <face index="28903" title="面 #28903:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="0.094" value1="-0.1645" value2="-0.1645" value3="0.112121" value4="0.1645" value5="0.1645"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28903.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28903.surf"></surfacegeometry>
+   </face>
+   <face index="28978" title="面 #28978:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="0.130823" value1="-0.031" value2="-0.031" value3="0.1314" value4="0.031" value5="0.031"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28978.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28978.surf"></surfacegeometry>
+   </face>
+   <face index="29053" title="面 #29053:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="0.11" value1="-0.032" value2="-0.032" value3="0.112" value4="0.032" value5="0.032"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#29053.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#29053.surf"></surfacegeometry>
+   </face>
+   <face index="29070" title="面 #29070:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="0.1284" value1="-0.0446053" value2="-0.0446053" value3="0.1314" value4="-0.0261053" value5="-0.0261053"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#29070.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#29070.surf"></surfacegeometry>
+   </face>
+   <face index="29072" title="面 #29072:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="0.1284" value1="0.0261053" value2="-0.0446053" value3="0.1314" value4="0.0446053" value5="-0.0261053"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#29072.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#29072.surf"></surfacegeometry>
+   </face>
+   <face index="29074" title="面 #29074:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="0.1284" value1="0.0261053" value2="0.0261053" value3="0.1314" value4="0.0446053" value5="0.0446053"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#29074.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#29074.surf"></surfacegeometry>
+   </face>
+   <face index="29077" title="面 #29077:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="0.1284" value1="-0.0446053" value2="0.0261053" value3="0.1314" value4="-0.0261053" value5="0.0446053"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#29077.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#29077.surf"></surfacegeometry>
+   </face>
+ </shell>
+</body>
+<body name="Ｆｒｏｎｔ　ｕｐｌｉｇｈｔ" index="66173" title="部品名:Ｆｒｏｎｔ　ｕｐｌｉｇｈｔ" transf="-1.22465e-016,1,-5.05322e-016,-2.77041e-005,6.12323e-017,5.05322e-016,1,-2.10942e-015,1,1.22465e-016,-6.12323e-017,-0.922128,0,0,0,1">
+ <shell index="29432" title="シェル #29432:作成成功(正常終了)" result="1">
+   <face index="28095" title="面 #28095:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="1.6125" value1="0.532" value2="0.2175" value3="1.6875" value4="0.5335" value5="0.2925"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28095.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28095.surf"></surfacegeometry>
+   </face>
+ </shell>
+</body>
+<body name="Rear Upright 4.16" index="66175" title="部品名:Rear Upright 4.16" transf="-1.22465e-016,1,-5.05322e-016,0.000229101,6.12323e-017,5.05322e-016,1,0.0110798,1,1.22465e-016,-6.12323e-017,-0.921322,0,0,0,1">
+ <shell index="29433" title="シェル #29433:作成成功(正常終了)" result="1">
+   <face index="28186" title="面 #28186:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="-0.0375" value1="0.532" value2="0.2175" value3="0.0375" value4="0.5335" value5="0.2925"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28186.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28186.surf"></surfacegeometry>
+   </face>
+ </shell>
+</body>
+<body name="2016S.S.Wheel" index="66178" title="部品名:2016S.S.Wheel" transf="1,-5.49257e-009,-2.08999e-013,2.39261e-009,2.38662e-009,0.434484,0.90068,0.538515,-4.94695e-009,-0.90068,0.434484,0.279178,0,0,0,1">
+ <shell index="29435" title="シェル #29435:作成失敗(閉じたシェルが作られなかった)" result="0">
+   <face index="28273" title="面 #28273:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="-0.005" value1="-0.0005" value2="-0.03" value3="0.005" value4="0.002" value5="-0.02"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28273.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28273.surf"></surfacegeometry>
+   </face>
+   <face index="28277" title="面 #28277:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="0.0166506" value1="-0.0005" value2="0.0075" value3="0.0266506" value4="0.002" value5="0.0175"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28277.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28277.surf"></surfacegeometry>
+   </face>
+   <face index="28279" title="面 #28279:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="-0.0266506" value1="-0.0005" value2="0.0075" value3="-0.0166506" value4="0.002" value5="0.0175"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28279.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28279.surf"></surfacegeometry>
+   </face>
+ </shell>
+</body>
+<body name="Ｆｒｏｎｔ　ｕｐｌｉｇｈｔ_MIR1" index="66180" title="部品名:Ｆｒｏｎｔ　ｕｐｌｉｇｈｔ_MIR1" transf="-2.22045e-016,-1,4.91e-016,2.77041e-005,6.12323e-017,-4.91e-016,-1,-2.10942e-015,1,-2.22045e-016,6.12323e-017,-0.922128,0,0,0,1">
+ <shell index="29438" title="シェル #29438:作成成功(正常終了)" result="1">
+   <face index="28349" title="面 #28349:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="1.6125" value1="0.532" value2="-0.2925" value3="1.6875" value4="0.5335" value5="-0.2175"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28349.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28349.surf"></surfacegeometry>
+   </face>
+ </shell>
+</body>
+<body name="Rear Upright 4.16_MIR2" index="66182" title="部品名:Rear Upright 4.16_MIR2" transf="-2.22045e-016,-1,4.91e-016,-0.000229101,-1.60812e-016,-4.91e-016,-1,0.0110798,1,-2.22045e-016,-1.60812e-016,-0.921322,0,0,0,1">
+ <shell index="29439" title="シェル #29439:作成成功(正常終了)" result="1">
+   <face index="28440" title="面 #28440:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの1000倍))" result="1">
+    <boundingbox value0="-0.0375" value1="0.532" value2="-0.2925" value3="0.0375" value4="0.5335" value5="-0.2175"></boundingbox>
+    <curve index="0" value0="0" value1="6.28319"></curve>
+    <curve index="1" value0="0" value1="6.28319"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28440.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\Inventor\STEP\FINAL_~1.STP.errorfiles\#28440.surf"></surfacegeometry>
+   </face>
+ </shell>
+</body>
+<body name="driver" index="66176" title="部品名:driver" transf="1,-8.59558e-017,-1.83697e-016,-1.21431e-017,8.59558e-017,1,-2.83964e-015,0.645154,1.83697e-016,2.83964e-015,1,-0.24002,0,0,0,1">
+ <shell index="29434" title="シェル #29434" result="2">
+   <face index="28247" title="面 #28247:作成失敗(サーフェスの作成に失敗した)" result="0">
+   </face>
+ </shell>
+</body>
+</xml>

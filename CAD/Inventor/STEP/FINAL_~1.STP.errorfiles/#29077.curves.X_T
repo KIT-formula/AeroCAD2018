@@ -1,0 +1,32 @@
+**ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz**************************
+**PARASOLID !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~0123456789**************************
+**PART1;
+MC=unknown;
+MC_MODEL=unknown;
+MC_ID=unknown;
+OS=unknown;
+OS_RELEASE=unknown;
+FRU=Software Cradle Co.,Ltd.;
+APPL=NPR;
+SITE=unknown;
+USER=unknown;
+FORMAT=text;
+GUISE=transmit;
+GUISE=transmit;
+DATE=unknown;
+**PART2;
+SCH=SCH_2600139_25001;
+USFLD_SIZE=0;
+**PART3;
+**END_OF_HEADER*****************************************************************
+T51 : TRANSMIT FILE created by modeller version 260013923 SCH_2600139_25001_1300
+6189 0 74 4 CI16 index_map_offset0 0 1 dCCZ2 1 2 0 0 2 3 10 255 2 2 4 5 0 0 6 0
+ 0 1e3 1e-8 0 7 3 1 0 1 0 10 3 2 8 9 0 0 10 0 0 1e3 1e-8 0 2 0 1 0 1 0 81 255 1
+ 8 2 11 3 0 0 0 0 12 70 11 CI9 list_type0 0 1 uI10 notransmit0 0 1 lCCCDCCDI12 f
+inger_index0 0 1 dI12 finger_block1012 0 CZ9 0 4 T3 0 0 1 20 1 13 13 31 255 10 1
+ 0 3 0 0 0 +.1314 -.0353553390593 .0353553390594 1 0 0 0 -1 0 .00925 74 20 13 1
+ 0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 80 255 1 11 14 15 9000 0 0 0 0 3 5
+ 0 0 0 TFFFFFFFFFFFFF1 82 255 1 12 1 79 255 23 15 CADthru/STEPIndexString81 1 4
+ 2 11 2 0 0 0 0 16 70 5 0 4 T2 0 0 1 20 1 17 17 31 6 1 0 2 0 0 0 +.1284 -.035355
+3390593 .0353553390594 -1 0 0 0 1 0 .00625 74 20 17 1 0 0 4 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 82 1 16 0 1 0 
