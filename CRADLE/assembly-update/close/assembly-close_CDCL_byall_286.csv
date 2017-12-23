@@ -1,0 +1,20 @@
+    LRGN[Fwheel]
+            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
+               -2,            2,      1.72495,       8.90659,      -6.40747,          0.182119,        -0.0371574,      9.08871,     -6.44463,     0.113054,   -0.0801646
+                2,            2,            0,             0,             0,                 0,                 0,            0,            0,            0,            0
+
+    LRGN[Rwheel]
+            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
+               -2,            2,      1.72226,       10.2001,     -0.789587,          0.216903,         0.0236839,       10.417,    -0.765903,     0.129577,  -0.00952706
+                2,            2,            0,             0,             0,                 0,                 0,            0,            0,            0,            0
+
+    LRGN[Rwing]
+            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
+               -2,            2,      2.81821,        17.977,       52.1056,           1.00268,         -0.193796,      18.9797,      51.9118,     0.236088,      0.64573
+                2,            2,            0,             0,             0,                 0,                 0,            0,            0,            0,            0
+
+    LRGN[body]
+            START,          END,         AREA,DRAG(PRESSURE),LIFT(PRESSURE),DRAG(SURF-STRESS),LIFT(SURF-STRESS),         DRAG,         LIFT,           CD,           CL
+               -2,            2,       12.487,       55.4831,       49.0149,           2.27144,        -0.0773596,      57.7545,      48.9376,     0.718407,     0.608734
+                2,            2,            0,             0,             0,                 0,                 0,            0,            0,            0,            0
+
