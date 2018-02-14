@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<xml>
+<body name="Symmetry of VISIONSHOCK_155" index="13918" title="部品名:Symmetry of VISIONSHOCK_155" transf="0.99989,-0.0148073,7.96068e-013,1.0982,-0.00213679,-0.144291,-0.989533,0.0501023,0.0146523,0.989424,-0.144307,0.585484,0,0,0,1">
+ <shell index="13925" title="シェル #13925:作成成功(正常終了)" result="1">
+   <face index="14869" title="面 #14869:作成成功(カーブとサーフェスの距離が異常に大きい(トレランスの20倍))" result="1">
+    <boundingbox value0="-0.00102578" value1="-0.013" value2="-0.2043" value3="0.00102578" value4="-0.0129595" value5="-0.203274"></boundingbox>
+    <curve index="0" value0="0" value1="2.92011"></curve>
+    <curve index="1" value0="0" value1="2.06795"></curve>
+    <curve index="2" value0="0" value1="2.06796"></curve>
+    <curvegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\stl\2018RA~1.STP.errorfiles\#14869.curves"></curvegeometry>
+    <surfacegeometry filename="C:\Users\KITF\DOCUME~1\Inventor\AEROCA~1\CAD\stl\2018RA~1.STP.errorfiles\#14869.surf"></surfacegeometry>
+   </face>
+ </shell>
+</body>
+</xml>
